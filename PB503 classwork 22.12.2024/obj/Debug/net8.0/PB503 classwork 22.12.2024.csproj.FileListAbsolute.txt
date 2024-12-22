@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\bin\Debug\net8.0\PB503 classwork 22.12.2024.exe
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\bin\Debug\net8.0\PB503 classwork 22.12.2024.deps.json
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\bin\Debug\net8.0\PB503 classwork 22.12.2024.runtimeconfig.json
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\bin\Debug\net8.0\PB503 classwork 22.12.2024.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\bin\Debug\net8.0\PB503 classwork 22.12.2024.pdb
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\refint\PB503 classwork 22.12.2024.dll
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.pdb
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\PB503 classwork 22.12.2024.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\Code Academy\Classworks\PB503 classwork 22.12.2024\PB503 classwork 22.12.2024\obj\Debug\net8.0\ref\PB503 classwork 22.12.2024.dll
